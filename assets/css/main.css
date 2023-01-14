@@ -56,6 +56,11 @@ body {
 	text-shadow: 3px 1px 2px #2A3036;
 }
 
+#my-image {
+    width: 100%; /* Set the width of the image to 100% of its container */
+    padding: 10px; /* Add a 10px padding around the image */
+}
+
 ol, ul {
 	list-style: none;
 }
