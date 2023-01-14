@@ -59,6 +59,12 @@ body {
 #my-image {
     width: 100%; /* Set the width of the image to 100% of its container */
     padding: 10px; /* Add a 10px padding around the image */
+	height: 100px;
+}
+
+#meimg{
+	width: 100px;
+	height: 100px;
 }
 
 ol, ul {
