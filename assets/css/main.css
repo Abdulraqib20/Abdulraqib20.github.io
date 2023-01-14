@@ -57,9 +57,8 @@ body {
 }
 
 #my-image {
-    width: auto; /* Set the width of the image to 100% of its container */
-    padding: 10px; /* Add a 10px padding around the image */
-	height: auto;
+    width: 600px; /* Set the width of the image to 100% of its container */
+	height: 300px;
 }
 
 .profile-picture {
@@ -72,8 +71,8 @@ body {
 
 #profile-pic {
     width: 100%; /* Set the width of the image to 100% of its container */
-    border-radius: 50%; /* Round the edges of the image to match the container */
-    object-fit: cover; /* Scale the image to cover the entire container */
+    border-radius: 50%;
+	object-fit: cover;
     /* box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5); */
 }
 
