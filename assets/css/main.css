@@ -66,8 +66,8 @@ body {
 }
 
 .profile-picture {
-    width: 350px;
-    height: 350px;
+    width: 450px;
+    height: 450px;
     /* border-radius: 50%; */
     overflow: hidden; /* Hide any overflow */
     margin: 0 auto; /* Center the container horizontally */
