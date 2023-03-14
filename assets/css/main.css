@@ -57,8 +57,8 @@ body {
 }
 
 #my-image {
-    width: 600px; /* Set the width of the image to 100% of its container */
-	height: 520px;
+    width: 700px; /* Set the width of the image to 100% of its container */
+	height: 700px;
 	margin: 0 auto; /* Center the image horizontally */
 	display: flex;
     align-items: center; /* Center the image vertically */
